@@ -11,5 +11,4 @@ This project has four major parts :
 3. request.py - This uses requests module to call APIs already defined in app.py and dispalys the returned value.
 4. templates - This folder contains the HTML template to allow user to enter employee detail and displays the predicted employee salary.
 
-```
 ### Fatimah Asiri
