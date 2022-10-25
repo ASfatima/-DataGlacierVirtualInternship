@@ -5,3 +5,4 @@ Here Assignments, Presentations, and Projects that I working every week 30 Septe
 - Week 2: G2M insight for Cab Investment firm.
 - Week 3: Presentation of Week 2 Use Case.
 - Week 4: Deployment on Flask.
+- Week 5: Cloud and API deployment
