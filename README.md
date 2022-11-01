@@ -6,3 +6,4 @@ Here Assignments, Presentations, and Projects that I working every week 30 Septe
 - Week 3: Presentation of Week 2 Use Case.
 - Week 4: Deployment on Flask.
 - Week 5: Cloud and API deployment
+- Week 6: File ingestion and schema validation
