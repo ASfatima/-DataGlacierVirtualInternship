@@ -1,7 +1,7 @@
 # ML Model Deployment on Heroku
-------
 
-ML Deployment using flask on heroku folder have
+
+### ML Deployment using flask on heroku folder have
 
 1. hiring.csv 
 2. model.py 
@@ -14,6 +14,6 @@ ML Deployment using flask on heroku folder have
  first: css file 
  second: images
  
- --------
- PDF - Documrnt
+ 
+### PDF - Documrnt
  This document contains a snapshot of each step of the deployment
