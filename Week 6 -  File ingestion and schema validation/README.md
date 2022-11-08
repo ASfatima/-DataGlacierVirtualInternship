@@ -5,5 +5,5 @@
 3. file.yaml
 4. testutility.py
 5. test_ingestion.ipynb
-6. Bank.zip 
+6. Bank.gz
 7. Data Intake Report_VI.pdf
