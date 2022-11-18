@@ -7,3 +7,4 @@ Here Assignments, Presentations, and Projects that I working every week 30 Septe
 - Week 4: Deployment on Flask.
 - Week 5: Cloud and API deployment
 - Week 6: File ingestion and schema validation
+- Week 7: Deliverables - Bank Marketing (Campaign)
