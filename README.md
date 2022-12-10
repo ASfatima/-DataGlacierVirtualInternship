@@ -9,5 +9,5 @@ Here Assignments, Presentations, and Projects that I working every week 30 Septe
 - Week 6: File ingestion and schema validation
 - Week 7: Deliverables - Bank Marketing (Campaign)
 - Week 8: Deliverables - Cross-Selling Recommendation
--Week 9: Deliverables - Customer Segmentation
+- Week 9: Deliverables - Customer Segmentation
 - Week 10: Deliverables - 
