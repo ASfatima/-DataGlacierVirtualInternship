@@ -11,3 +11,6 @@ Here Assignments, Presentations, and Projects that I working every week 30 Septe
 - Week 8: Deliverables - Cross-Selling Recommendation
 - Week 9: Deliverables - Customer Segmentation
 - Week 10: Deliverables - 
+- Week 11: EDA Presentation and proposed modeling technique
+- Week 12: Model Selection and Model Building/Dashboard
+- Week 13: Final Project Report and Code
