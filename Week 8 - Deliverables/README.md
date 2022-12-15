@@ -1,5 +1,5 @@
 # Deliverables 
------
+
 1.	Problem description 
 2.	Data understanding 
 3.	What type of data you have got for analysis 
